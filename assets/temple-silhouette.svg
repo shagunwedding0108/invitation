@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" fill="none">
+<defs><linearGradient id="g" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#f0dba6" stop-opacity=".9"/><stop offset="1" stop-color="#b8a175" stop-opacity=".55"/></linearGradient><radialGradient id="h"><stop stop-color="#f6d796" stop-opacity=".26"/><stop offset="1" stop-color="#f6d796" stop-opacity="0"/></radialGradient></defs>
+<circle cx="450" cy="295" r="240" fill="url(#h)"/>
+<g stroke="url(#g)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+<path d="M124 524H776M102 555H798M160 524V245M740 524V245M160 245Q450-30 740 245M182 244Q450 7 718 244"/>
+<path d="M185 245H715M132 245H768M450 37V8M430 45H470M450 8l-16 21h32L450 8Z"/>
+<path d="M202 524V265H253V524M647 524V265H698V524M205 293H251M650 293H695"/>
+<path d="M177 247V218H273V247M627 247V218H723V247M182 215H268M632 215H718"/>
+<path d="M295 524V305Q450 155 605 305V524M323 524V316Q450 188 577 316V524" stroke-width="3"/>
+<path d="M365 524H535M375 536H525" stroke-width="3"/>
+<path d="M195 273v24l-8 12 8 11 8-11-8-12M705 273v24l-8 12 8 11 8-11-8-12" stroke-width="3"/>
+<path d="M270 246Q450 115 630 246" stroke-width="2"/>
+</g>
+<g fill="#cfb77e" fill-opacity=".68" stroke="#e8d49f" stroke-opacity=".5" stroke-width="2">
+<!-- symbolically rendered Krishna with flute -->
+<circle cx="419" cy="332" r="19"/><path d="M399 352Q371 383 377 446L357 523H463L451 458Q466 398 442 352Z"/>
+<path d="M405 356Q379 367 361 386L326 385L324 396L367 402L416 379Z"/><path d="M439 362Q461 375 478 382L503 376L504 388L477 395L438 388Z"/>
+<path d="M382 451Q412 470 449 442L466 523H354Z" fill="#9d8865"/>
+<!-- Radha silhouette -->
+<circle cx="497" cy="354" r="19"/><path d="M474 374Q462 414 455 445Q448 474 435 523H563Q539 470 535 432Q532 392 514 374Z"/>
+<path d="M482 380Q459 393 450 412L444 437L434 437L437 409Q443 384 472 374Z"/>
+<path d="M516 384Q542 403 541 427L521 439L515 430L529 421Z"/>
+</g>
+<g stroke="#edd7a5" stroke-width="5" stroke-linecap="round"><path d="M312 381H498"/><path d="M360 372V391M389 372V391M418 372V391M447 372V391" stroke-width="2"/></g>
+<path d="M415 308q-12-26-1-38q18 7 15 31" stroke="#e8d49f" stroke-width="3"/><path d="M412 306q-21-23-32-13q10 20 31 20" stroke="#e8d49f" stroke-width="2"/>
+<g stroke="#e7d39b" stroke-width="2" opacity=".75"><path d="M70 439l16-24 16 24-16 24-16-24Z"/><path d="M802 411l13-22 13 22-13 22-13-22Z"/><path d="M94 301l12-20 12 20-12 20-12-20Z"/></g>
+</svg>
