@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900" preserveAspectRatio="none" fill="none">
+<defs>
+<linearGradient id="gold" x1="0" y1="0" x2="720" y2="900" gradientUnits="userSpaceOnUse"><stop stop-color="#7e6339"/><stop offset=".3" stop-color="#dfc48a"/><stop offset=".65" stop-color="#94713c"/><stop offset="1" stop-color="#dcc38b"/></linearGradient>
+<path id="arch" d="M50 870V320Q50 270 100 270Q72 210 143 194Q141 142 213 142Q244 82 309 99Q320 58 360 35Q400 58 411 99Q476 82 507 142Q579 142 577 194Q648 210 620 270Q670 270 670 320V870"/>
+<g id="sprig" stroke="url(#gold)" stroke-width="1.1"><path d="M0 140Q75 105 90 0M17 129Q6 105 4 85Q28 91 31 120M38 111Q22 82 27 63Q49 72 51 95M57 84Q47 52 55 35Q76 49 71 64M75 51Q72 21 90 0M19 129Q53 132 70 116Q48 107 34 118M45 104Q78 101 91 82Q69 78 56 91M65 74Q97 67 102 48Q83 48 75 58"/></g>
+</defs>
+<g stroke="url(#gold)"><use href="#arch" stroke-width="1.3"/><use href="#arch" transform="translate(18 22) scale(.95 .97)" stroke-width=".6"/><path d="M35 870V325Q35 289 55 273M685 870V325Q685 289 665 273" opacity=".55"/><path d="M24 870H111M609 870H696M50 840H78M642 840H670"/>
+<path d="M360 7V22M345 22L360 35L375 22M351 18L360 7L369 18L360 29Z"/>
+<g opacity=".7"><use href="#sprig" transform="translate(28 534) scale(.8)"/><use href="#sprig" transform="translate(692 534) scale(-.8 .8)"/><use href="#sprig" transform="translate(94 210) rotate(-20) scale(.65)"/><use href="#sprig" transform="translate(626 210) rotate(20) scale(-.65 .65)"/></g>
+<g opacity=".65"><path d="M25 885H695M95 878H625"/><path d="M350 883L360 874L370 883L360 892Z"/></g>
+</g></svg>

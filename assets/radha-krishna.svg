@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 175" fill="none" stroke="#a48343" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<title>Radha and Krishna with flute and peacock feather</title>
+<!-- Krishna's peacock feather and crown -->
+<path d="M87 42C60 17 80 4 91 10c15 8 7 24-4 32ZM87 37c-6-9-11-19-2-21 10-2 9 10 2 21ZM87 42l-1-20M68 54l5-16 13 7 11-8 7 16M68 54q18-10 36-1"/>
+<!-- Krishna's face, tilak, earrings and draped shoulder -->
+<path d="M71 57c-3 15 2 28 13 32 9 3 16-5 19-13l8-3-8-6-1-10M85 60v8m-3-7v5m6-5v5M93 64q4-3 8 0M98 79l-6 1M70 70q-9-2-7 6 1 7 9 6M68 83v9m-3-2 3 4 3-4M82 89l-3 12M96 88l2 10M79 101c-17 4-25 17-27 37M98 100l16 10M62 118q7 12 16 14"/>
+<!-- Radha's veil, profile, bindi and necklace -->
+<path d="M112 58c12-22 37-14 43 7 6 19 7 42 22 68M113 59q18-12 30 9M113 61c-3 5-4 10-3 15l-7 7 8 2c2 13 12 20 23 12M125 100v9M138 93l2 12M140 68c7 13 8 26-2 36M111 75q5-4 10-1M116 87h5M115 107c7 9 17 10 25-2M116 111c7 13 17 15 26 0M142 107q16 7 19 32"/>
+<circle cx="117" cy="66" r="1.7" fill="#a48343" stroke="none"/>
+<path d="M134 82q8-2 8 5t-7 5M137 92v7"/>
+<!-- Flute and Krishna's hands -->
+<path d="m67 106 76-18m-75 22 76-18M82 106l3-8q2-4 5-1l4 6M102 101l2-8q2-4 5-1l4 6M145 88l5-1m-4 5 5-1"/>
+<circle cx="119" cy="96" r=".8" fill="#a48343" stroke="none"/><circle cx="126" cy="94" r=".8" fill="#a48343" stroke="none"/>
+<!-- Quiet lotus base -->
+<path d="M43 146q28 12 57 5 29 7 57-5M82 150q3 10 18 15 15-5 18-15M100 151v14M70 161q14 8 30 4 16 4 30-4"/>
+</svg>
